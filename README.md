@@ -1,3 +1,4 @@
 # Hello I'm Hurricane!
-
-![](Header.png)
+<p>
+     ![Header Image](Header.png)
+</p>
