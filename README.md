@@ -2,4 +2,4 @@
 
 # Skills
 
-**1.** <img src="css3.png" alt="CSS" width="40" height="50"/> <font size="3">CSS</font>
+<img src="css3.png" alt="CSS" width="100" height="140" title="CSS"/>
