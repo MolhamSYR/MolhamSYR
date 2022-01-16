@@ -1,3 +1,3 @@
 # Hello I'm Hurricane!
 
-<img src="css3.png" alt="Header Image"/>
+<img src="Header.png" alt="Header Image"/>
