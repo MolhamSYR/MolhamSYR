@@ -1,4 +1,4 @@
 # Hello I'm Hurricane!
 <p>
-     ![Header Image](Header.png)
+     <img src="Header.png" alt="Header Image"/>
 </p>
